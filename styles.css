@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap" rel="stylesheet">
-');
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
 
 /* Variáveis */
 :root {
@@ -13,6 +12,7 @@
 }
 
 /* código omitido */
+
 /* Reset */
 * {
     margin: 0;
